@@ -1,0 +1,18 @@
+.Footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 65px;
+}
+
+span{
+    color: white;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.one{
+    margin: 15px;
+}
+.two{
+    margin: 15px;
+}

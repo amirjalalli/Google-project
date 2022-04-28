@@ -1,0 +1,25 @@
+.input-content{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    border: 2px solid gray;
+    border-radius: 50px;
+    width: 450px;
+    margin: 45px auto;
+    
+}
+.img{
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
+.inp{
+    width: 450px;
+    background-color: black;
+    outline: none;
+    border: none;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}

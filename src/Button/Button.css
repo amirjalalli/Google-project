@@ -1,0 +1,31 @@
+.center{
+    width: 650px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+}
+.btn-content{
+    display: flex;
+    justify-content: center;
+    width: 350px;
+    margin: 15px auto;
+
+}
+
+.btn{
+    margin: 5px 5px;
+    padding: 5px 10px;
+    width: 300px;
+    background-color: rgb(22, 22, 22);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.footer-btn{
+text-align: center;
+color: white;
+}
+a{
+    text-decoration: none;
+}
